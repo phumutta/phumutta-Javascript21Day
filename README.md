@@ -1,1 +1,2 @@
-# phumutta-Javascript21Day
+# Javascript21Day
+### Day 1 Falling Snow
